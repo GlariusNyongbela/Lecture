@@ -8,3 +8,24 @@ body{
 input{
     color:darkgreen;
 }
+
+table{
+    border: 2px solid black;
+    border-collapse: collapse;
+    width:100%;
+}
+
+th{
+    background-color: burlywood;
+    color: blue;
+    border: 1px solid black;
+}
+td{
+    border: 1px solid black;
+}
+#top{
+    color: chartreuse;
+}
+.name{
+    color: brown;
+}
